@@ -1,0 +1,19 @@
+{
+  "name": "ajax-webmoderno",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaac-goncalves/Ajax-WebModerno.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaac-goncalves/Ajax-WebModerno/issues"
+  },
+  "homepage": "https://github.com/isaac-goncalves/Ajax-WebModerno#readme",
+  "description": ""
+}
